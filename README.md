@@ -40,17 +40,6 @@ This repository contains:
 
 ---
 
-# 🌐 Design Showcase
-
-The UI design has also been published on design platforms:
-
-🎨 **Dribbble**  
-https://dribbble.com/sanjayn29
-
-🎨 **Behance**  
-https://behance.net/sanjayn29
-
----
 
 # 👨‍💻 Designer
 
